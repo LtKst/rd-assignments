@@ -1,0 +1,4 @@
+{"school":[
+  {"naam": "Mediacollege", "category": "MBO","nr_students": 20000, "courses": ["Mediadevelopment", "Gamedevelopment"]},
+  {"naam": "Pascal Zuid", "category": "VMBO","nr_students": 10000, "courses": ["Verzorging", "Designer"]}
+]}
